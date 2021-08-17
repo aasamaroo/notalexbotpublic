@@ -1,0 +1,24 @@
+{
+  "name": "notalexbot_github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./src/bot.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aasamaroo/notalexbotpublic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aasamaroo/notalexbotpublic/issues"
+  },
+  "homepage": "https://github.com/aasamaroo/notalexbotpublic#readme",
+  "dependencies": {
+    "discord.py": "^1.0.0"
+  }
+}
